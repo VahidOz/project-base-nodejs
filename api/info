@@ -1,0 +1,2 @@
+process  komutu nodejs de global degişkenlere erişimi sağlayan özel bir komuttur.
+değişken tanımlarken yolu belirtirken index.js yazmaya gerek yok. "../config" yazıldığında içindeki index.js i alır.
